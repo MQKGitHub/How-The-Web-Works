@@ -1,4 +1,4 @@
-# 🌐 How The Web Works
+## 🌐 How The Web Works
 
 This section of my TryHackMe learning journey dives into the **underlying functions of the web** — from DNS and HTTP to how websites are built and delivered. Understanding these systems is essential for spotting vulnerabilities and hacking effectively.
 
@@ -6,7 +6,7 @@ Each room breaks down a key part of how the internet works, with hands-on practi
 
 ---
 
-## 📚 Topic Index
+### 📚 Topic Index
 
 | Topic Name            | Status         | Link                                                                 |
 |-------------------------|----------------|----------------------------------------------------------------------|
@@ -17,7 +17,7 @@ Each room breaks down a key part of how the internet works, with hands-on practi
 
 ---
 
-## 🧠 Overview
+### 🧠 Overview
 
 ### 🌐 DNS in Detail  
 - Coming soon...
