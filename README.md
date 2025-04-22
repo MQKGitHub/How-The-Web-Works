@@ -11,7 +11,7 @@ Each room breaks down a key part of how the internet works, with hands-on practi
 | Topic Name            | Status         | Link                                                                 |
 |-------------------------|----------------|----------------------------------------------------------------------|
 | DNS in Detail           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/DNS-in-Detail)           |
-| HTTP in Detail          | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/HTTP-HTTPS-in-Detail)    |
+| HTTP(S) in Detail       | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/HTTP-HTTPS-in-Detail)    |
 | How Websites Work       | 🔄 In Progress  | [View Write-Up](https://github.com/MQKGitHub/How-Websites-Work)       |
 | Putting it all together | ⏳ Not Started  | [View Write-Up](https://github.com/MQKGitHub/Putting-it-all-Together) |
 
