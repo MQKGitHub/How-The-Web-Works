@@ -12,8 +12,8 @@ Each room breaks down a key part of how the internet works, with hands-on practi
 |-------------------------|----------------|----------------------------------------------------------------------|
 | DNS in Detail           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/DNS-in-Detail)           |
 | HTTP(S) in Detail       | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/HTTP-HTTPS-in-Detail)    |
-| How Websites Work       | 🔄 In Progress  | [View Write-Up](https://github.com/MQKGitHub/How-Websites-Work)       |
-| Putting it all together | ⏳ Not Started  | [View Write-Up](https://github.com/MQKGitHub/Putting-it-all-Together) |
+| How Websites Work       | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/How-Websites-Work)       |
+| Putting it all together | 🔄 In Progress  | [View Write-Up](https://github.com/MQKGitHub/Putting-it-all-Together) |
 
 ---
 
@@ -27,9 +27,9 @@ Each room breaks down a key part of how the internet works, with hands-on practi
 - Learned how HTTP and HTTPS work to transfer web data, and how URLs, headers, methods, and status codes structure communication between browsers and servers.  
 - Explored how cookies, request/response formats, and encryption help manage sessions and keep data secure online.
 
-### 🧱 How Websites Work  
-- Coming soon...
-- Coming soon...
+### 🧱 How Websites Work   
+- Learned how websites are built using HTML, CSS, and JavaScript, and how browsers talk to servers to fetch and display content.  
+- Looked at simple security issues like HTML injection and exposed data in page source code.
 
 ### 🔄 Putting it all together  
 - Coming soon...
